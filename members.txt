@@ -6,4 +6,5 @@ Christopher C.	011	13 mai		yes
 Sandra Joseph	003	12 février	no
 Aristide Jules	013	18 novembre	yes
 Pathel Jiba	008	28 mars		no
+Rachel Henry	002	11 juin		no
 	
