@@ -1,0 +1,9 @@
+Membership 	No  	Date Joined  	Active
+Jaques Duncan	001	12 janv		yes
+Pierre André	005	8 mars		yes
+Mirlande Avril	004	12 décembre	no
+Christopher C.	011	13 mai		yes
+Sandra Joseph	003	12 février	no
+Aristide Jules	013	18 novembre	yes
+Pathel Jiba	008	28 mars		no
+	
